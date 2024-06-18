@@ -25,10 +25,6 @@ The goal for the website currently, is to get it compatible with WordPress, so i
 ## Update 0.1.0.0:
 Added 21. March - 14:51
 
-<br>
-<br>
-<br>
-
 ### Rework
 - The entire design has been changed, to make more stylish and minimalistic.  The goal for this is to make the page more readable for users.
 - Menu has been moved to the left (will probably be using a hamburger-menu in the future)
