@@ -21,6 +21,9 @@ The goal for the website currently, is to get it compatible with WordPress, so i
 ### CSS
 - There has been a lot of changes to the websites CSS code, since it was previously not responsive. Therefore, the code has got very long and cluttered, it will need to be segmented, to make it easier to adjust the websites design.
 
+<br>
+<br>
+<br>
 
 ## Update 0.1.0.0:
 Added 21. March - 14:51
